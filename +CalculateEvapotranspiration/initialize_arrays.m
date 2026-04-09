@@ -1,0 +1,20 @@
+function [DELTAA, ro_a, e0_Tmax, e0_Tmin, es, e_a, VPD, dr, delta, Ws, Ra, Rs0, Rs, Rns, Rnl, Rn, u_2, r_a_SOIL] = initialize_arrays(num_steps)
+    DELTAA = zeros(1, num_steps);
+    ro_a = zeros(1, num_steps);
+    e0_Tmax = zeros(1, num_steps);
+    e0_Tmin = zeros(1, num_steps);
+    es = zeros(1, num_steps);
+    e_a = zeros(1, num_steps);
+    VPD = zeros(1, num_steps);
+    dr = zeros(1, num_steps);
+    delta = zeros(1, num_steps);
+    Ws = zeros(1, num_steps);
+    Ra = zeros(1, num_steps);
+    Rs0 = zeros(1, num_steps);
+    Rs = zeros(1, num_steps);
+    Rns = zeros(1, num_steps);
+    Rnl = zeros(1, num_steps);
+    Rn = zeros(1, num_steps);
+    u_2 = zeros(1, num_steps);
+    r_a_SOIL = zeros(1, num_steps);
+end
