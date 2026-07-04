@@ -35,11 +35,50 @@ Key components include:
 
 ## Citation
 
-If you use this repository, please cite the associated article:
+If you use this repository, please cite both the associated article and this public code repository where appropriate.
 
-> Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate.
+### Article Citation
 
-A complete citation will be added after the article citation information is finalized.
+The final article citation will be updated after publication. Before the final journal information is available, please cite the article as:
+
+**APA style**
+
+> [Author(s)]. ([Year]). *Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate*. [Journal/Preprint server]. [DOI or URL]
+
+**BibTeX**
+
+```bibtex
+@article{stemmus_n_rooting_depth_legacy_nitrate,
+  title   = {Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate},
+  author  = {[Author(s)]},
+  journal = {[Journal or preprint server]},
+  year    = {[Year]},
+  doi     = {[DOI]},
+  url     = {[Article URL]}
+}
+```
+
+### Code Repository Citation
+
+Please also cite this repository when using the MATLAB code directly:
+
+**APA style**
+
+> [Author(s)]. (2026). *STEMMUS-N: Public MATLAB code for "Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate"* [Computer software]. GitHub. https://github.com/3100362274/STEMMUS-N
+
+**BibTeX**
+
+```bibtex
+@software{stemmus_n_matlab_code_2026,
+  title  = {STEMMUS-N: Public MATLAB code for {Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate}},
+  author = {[Author(s)]},
+  year   = {2026},
+  url    = {https://github.com/3100362274/STEMMUS-N},
+  note   = {MATLAB research code associated with the article Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate}
+}
+```
+
+Please replace `[Author(s)]`, `[Year]`, `[Journal or preprint server]`, `[DOI]`, and `[Article URL]` with the final publication information once available.
 
 ## Notes
 
