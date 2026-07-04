@@ -17,8 +17,6 @@ Users of this repository are expected to:
 - use the code for lawful, ethical, and academically responsible purposes;
 - clearly indicate any changes when adapting the code for other studies or applications.
 
-Unless a separate `LICENSE` file is added, all rights not explicitly granted here remain with the authors. A formal open-source license may be added later to define redistribution, modification, and commercial-use terms more precisely.
-
 ## Repository Overview
 
 STEMMUS-N is a MATLAB-based model code repository developed for the study of soil water, heat, gas, and nitrogen transport processes, with a focus on the role of crop rooting depth in mediating the fate of deep legacy nitrate.
@@ -79,6 +77,10 @@ Please also cite this repository when using the MATLAB code directly:
 ```
 
 Please replace `[Author(s)]`, `[Year]`, `[Journal or preprint server]`, `[DOI]`, and `[Article URL]` with the final publication information once available.
+
+## License
+
+This repository is released under the MIT License. See the [`LICENSE`](LICENSE) file for details.
 
 ## Notes
 
