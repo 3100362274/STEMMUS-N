@@ -33,7 +33,7 @@ Key components include:
 
 ## Citation
 
-If you use this repository, please cite both the associated article and this public code repository where appropriate.
+If you use this repository, please cite the associated article, the public MATLAB code repository, and the Zenodo dataset where appropriate.
 
 ### Article Citation
 
@@ -41,14 +41,14 @@ The final article citation will be updated after publication. Before the final j
 
 **APA style**
 
-> [Author(s)]. ([Year]). *Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate*. [Journal/Preprint server]. [DOI or URL]
+> Zhu, J. ([Year]). *Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate*. [Journal/Preprint server]. [DOI or URL]
 
 **BibTeX**
 
 ```bibtex
-@article{stemmus_n_rooting_depth_legacy_nitrate,
+@article{zhu_stemmus_n_legacy_nitrate,
   title   = {Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate},
-  author  = {[Author(s)]},
+  author  = {Zhu, Jizixing},
   journal = {[Journal or preprint server]},
   year    = {[Year]},
   doi     = {[DOI]},
@@ -58,25 +58,45 @@ The final article citation will be updated after publication. Before the final j
 
 ### Code Repository Citation
 
-Please also cite this repository when using the MATLAB code directly:
+Please cite this repository when using the MATLAB code directly:
 
 **APA style**
 
-> [Author(s)]. (2026). *STEMMUS-N: Public MATLAB code for "Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate"* [Computer software]. GitHub. https://github.com/3100362274/STEMMUS-N
+> Zhu, J. (2026). *STEMMUS-N: Public MATLAB code for "Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate"* [Computer software]. GitHub. https://github.com/3100362274/STEMMUS-N
 
 **BibTeX**
 
 ```bibtex
-@software{stemmus_n_matlab_code_2026,
+@software{zhu_stemmus_n_matlab_code_2026,
   title  = {STEMMUS-N: Public MATLAB code for {Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate}},
-  author = {[Author(s)]},
+  author = {Zhu, Jizixing},
   year   = {2026},
   url    = {https://github.com/3100362274/STEMMUS-N},
   note   = {MATLAB research code associated with the article Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate}
 }
 ```
 
-Please replace `[Author(s)]`, `[Year]`, `[Journal or preprint server]`, `[DOI]`, and `[Article URL]` with the final publication information once available.
+### Dataset Citation
+
+Please cite the Zenodo dataset when using the model code, calibration and validation data, sensitivity analysis data, historical simulation data, simulation videos, or future projection data:
+
+**APA style**
+
+> Zhu, J. (2026). *Crop rooting depth acts a hydraulic lever mediating the fate of deep legacy nitrate* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21184605
+
+**BibTeX**
+
+```bibtex
+@dataset{zhu_stemmus_n_dataset_2026,
+  title     = {Crop rooting depth acts a hydraulic lever mediating the fate of deep legacy nitrate},
+  author    = {Zhu, Jizixing},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21184605},
+  url       = {https://doi.org/10.5281/zenodo.21184605},
+  note      = {Model code, calibration and validation data, model sensitivity analysis data, historical simulation data, simulation videos, and future projection dataset}
+}
+```
 
 ## License
 
