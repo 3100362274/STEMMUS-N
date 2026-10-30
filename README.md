@@ -1,6 +1,6 @@
 # STEMMUS-N
 
-**Public MATLAB code for the article:** *Crop rooting depth acts as a hydraulic lever mediating the fate of deep legacy nitrate*.
+**Public MATLAB code for the article:** *Crop choice shapes legacy nitrate migration in deep vadose zones following orchard-to-cropland conversion*.
 
 This repository contains the public research code associated with the article above. The code is provided to support transparency, reproducibility, academic communication, and further scientific development of the STEMMUS-N model framework.
 
